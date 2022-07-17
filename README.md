@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KarimElaskary
 - 👀 I’m interested in Programming & Gaming
-- 🌱 I’m currently learning Python 
+- 🌱 I’m currently learning Dart 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
