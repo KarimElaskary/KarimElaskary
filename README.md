@@ -20,6 +20,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+
 ![TypeScript]([https://img.shields.io/badge/-notion-fff?style=flat-square&logo=notion&logoColor=000](https://img.shields.io/badge/-typescript-fff?style=flat-square&logo=typescript&logoColor=007acc))
 
 ![ReactJS](https://img.shields.io/badge/-Reactjs-fff?style=flat-square&logo=react&logoColor=007acc)
@@ -28,9 +29,6 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
-
- - ### I’m currently learning
-![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 
 
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
